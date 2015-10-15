@@ -1,6 +1,7 @@
 Brainwallet
 ===========
-Forked from original brainwallet , passphrase strength checker added
+Forked from original brainwallet , passphrase strength checker added 
+
 JavaScript Client-Side Bitcoin Address Generator
 
 Notable features
