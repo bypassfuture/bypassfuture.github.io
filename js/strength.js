@@ -67,7 +67,7 @@
                       thismeter.removeClass().html('');
                 }else if (total <= 1) {
                    thismeter.removeClass();
-                   thismeter.addClass('veryweak').html('<p style="color:red">Warning: Very weak passphrase ! Do not use it as brain wallet passphrase !</p>');
+                   thismeter.addClass('veryweak').html('<p style="color:red">Warning: Very weak passphrase !!</p>');
                 } else if (total == 2){
                     thismeter.removeClass();
                    thismeter.addClass('weak').html('<p style="color:orange">Warning: weak passphrase</p>');
