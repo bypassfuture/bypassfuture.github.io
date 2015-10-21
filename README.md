@@ -1,7 +1,10 @@
 Brainwallet
 ===========
-Forked from original brainwallet , passphrase strength checker added 
+https://bypassfuture.github.io
 
+<b>
+Forked from original brainwallet , passphrase strength checker added 
+</b>
 JavaScript Client-Side Bitcoin Address Generator
 
 Notable features
